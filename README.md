@@ -88,8 +88,9 @@ My name is Junior Ferreira de Souza Dias, and I am from Ceará. I am an oceanogr
 ---
 
 ### 📚  Research interests
-
+<p align="justify">
 My research focuses on the interface between environmental monitoring, biostatistics, conservation, and biodiversity of marine ecosystems. I work on the analysis of environmental monitoring data applied to bioindicator species relevant to artisanal fisheries, focusing on the assessment of conservation status. I am interested in studies on the effects of climate change on marine ecosystems, using generalized statistical modeling to predict future environmental scenarios.
+</p>
 
 - Biostatistics
 - Environmental Modeling
