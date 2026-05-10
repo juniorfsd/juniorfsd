@@ -5,21 +5,17 @@
 
 My name is Junior Ferreira de Souza Dias, and I am from Ceará. I am an oceanographer, having graduated from the Federal University of Ceará. Currently, I am studying Data Science at the Federal Institute of São Paulo. I have skills in biostatistics, environmental modeling, and time series analysis of environmental data.
 
-
-<div style="display:flex;align-items:center;gap:25px;">
-  <a href="https://www.linkedin.com/in/juniorfsd" target="_blank" 
-     style="display:inline-flex;align-items:center;text-decoration:none;">
+<p align="left">
+  <a href="https://www.linkedin.com/in/juniorfsd" target="_blank">
     <span style="color:#0A66C2;font-weight:bold;font-size:16px;margin-right:6px;">Linkedin</span>
-    <img src="./in.svg" width="24" alt="LinkedIn" 
-    />
+    <img src="./in.svg" width="24" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaço horizontal -->
+  <a href="http://lattes.cnpq.br/1796030051307169" target="_blank">
+    <img src="./curriculo-lattes.png" width="100" alt="Lattes" />
+  </a>
+</p>
 
-  <a href="http://lattes.cnpq.br/1796030051307169" target="_blank" 
-     style="display:inline-flex;align-items:center;text-decoration:none;">
-    <img src="[./curriculo-lattes.png](https://www.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png)" width="100" alt="Lattes" 
-    />
-  </a>
-</div>
 
 ---
 
