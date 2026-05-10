@@ -1,41 +1,26 @@
 ## Junior
 
-# 👩🏻‍💻 Junior Ferreira
+# 🧑🏻‍💻 Junior Ferreira
 
 **`Oceanographer and Data Scientist`**
 
 My name is Junior Ferreira de Souza Dias, and I am from Ceará. I am an oceanographer, having graduated from the Federal University of Ceará. Currently, I am studying Data Science at the Federal Institute of São Paulo. I have skills in biostatistics, environmental modeling, and time series analysis of environmental data.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
+<div style="display:flex;align-items:center;gap:25px;">
+  <a href="https://www.linkedin.com/in/juniorfsd" target="_blank" 
+     style="display:inline-flex;align-items:center;text-decoration:none;">
+    <span style="color:#0A66C2;font-weight:bold;font-size:16px;margin-right:6px;">Linkedin</span>
+    <img src="./in.svg" width="24" alt="LinkedIn" 
+    />
+  </a>
+
+  <a href="http://lattes.cnpq.br/1796030051307169" target="_blank" 
+     style="display:inline-flex;align-items:center;text-decoration:none;">
+    <img src="./curriculo-lattes.png" width="100" alt="Lattes" 
+    />
+  </a>
+</div>
 
 ---
 
