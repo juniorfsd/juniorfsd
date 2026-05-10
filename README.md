@@ -17,7 +17,7 @@ My name is Junior Ferreira de Souza Dias, and I am from Ceará. I am an oceanogr
 
   <a href="http://lattes.cnpq.br/1796030051307169" target="_blank" 
      style="display:inline-flex;align-items:center;text-decoration:none;">
-    <img src="./curriculo-lattes.png" width="100" alt="Lattes" 
+    <img src="[./curriculo-lattes.png](https://www.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png)" width="100" alt="Lattes" 
     />
   </a>
 </div>
