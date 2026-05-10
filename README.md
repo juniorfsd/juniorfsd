@@ -1,4 +1,3 @@
-## Junior
 
 # 🧑🏻‍💻 Junior Ferreira
 
