@@ -4,9 +4,12 @@
 **`Oceanographer and Data Scientist`**
 
 My name is Junior Ferreira de Souza Dias, and I am from Ceará. I am an oceanographer, having graduated from the Federal University of Ceará. Currently, I am studying Data Science at the Federal Institute of São Paulo. I have skills in biostatistics, environmental modeling, and time series analysis of environmental data.
+<br/>
 
+---
 
 ### 🛜 My connections
+
 
 <a href="https://www.linkedin.com/in/juniorfsd" target="_blank">
     <img 
